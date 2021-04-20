@@ -24,6 +24,9 @@ I am **addicted to green dots** on [GitHub](https://github.com/simongomes?tab=re
 - **Technical Practices**: *Agile*, *Test Driven Development*
 
 
+[![Simon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simongomes&theme=blue-green)](https://github.com/simongomes)
+
+
 ### :hugs: Thank You!
 
 Thank you so much for visiting my tiny space on [GitHub](https://github.com/simongomes)! :v:
