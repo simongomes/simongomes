@@ -15,11 +15,11 @@ I am **addicted to green dots** on [GitHub](https://github.com/simongomes?tab=re
 
 - **Languages**: `PHP`, `JavaScript`, `C++`, `Java`, `OOP`
 
-- **Frontend**: `HTML5`, `CSS3`, `Vue`, `React`
+- **Frontend**: `HTML5`, `CSS3`, `Vue`, `React`, `Nuxt`, `Next`
 
 - **Backend**: `Laravel`,`WordPress`, `Express`, `Node`
 
-- **Databases**: `MySql`
+- **Databases**: `MySql`, `Mongodb`
 
 - **Technical Practices**: *Agile*, *Test Driven Development*
 
