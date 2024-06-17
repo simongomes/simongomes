@@ -1,6 +1,6 @@
 ### Hi there 👋
 **Glad to see you here!** :star_struck: <br>
-I'm a Professional Full-Stack Web Application developer with 7+ years of experience on design and development. Building state-of-art, easy to use, user-friendly applications is truly my passion. In addition to my knowledge-base, I actively seek out new technologies and stay up-to-date on industry trends and advancement. This has allowed me to stay ahead of the curve and deliver exceptional work to all my employers, including those I have worked for on project basis.  
+I'm a Senior Frontend Software Engineer with 8+ years of experience in design and development. Building state-of-art, easy-to-use, user-friendly applications is truly my passion. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. This has allowed me to stay ahead of the curve and deliver exceptional work to all my employers, including those I have worked for on a project basis.  
 
 
 ![![GitHub Profile Views]](https://komarev.com/ghpvc/?username=simongomes)
@@ -13,15 +13,15 @@ I am **addicted to green dots** on [GitHub](https://github.com/simongomes?tab=re
 
 ### :gear: My skills include:
 
-- **Languages**: `PHP`, `JavaScript`, `C++`, `Java`, `OOP`
+- **Languages**: `JavaScript`, `Typescript`, `PHP`, `C++`, `Java`, `OOP`
 
-- **Frontend**: `HTML5`, `CSS3`, `Vue`, `React`, `Nuxt`, `Next`
+- **Frontend**: `React`, `Next`, `Vue`, `Nuxt`, `HTML5`, `CSS3`,
 
-- **Backend**: `Laravel`,`WordPress`, `Express`, `Node`
+- **Backend**: `Laravel`, `WordPress`, `Express`, `Node`, `Strapi`, `Ghost`
 
-- **Databases**: `MySql`, `Mongodb`
+- **Databases**: `MySql`, `MongoDB`, `PostgreSQL`, `SQLite`, `Redis`, `Cassandra`
 
-- **Technical Practices**: *Agile*, *Test Driven Development*
+- **Technical Practices**: *Agile*, *TDD*, *Scrum*, *Jira*
 
 
 ### :hugs: Thank You!
