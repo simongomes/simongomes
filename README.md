@@ -21,7 +21,7 @@ I am **addicted to green dots** on [GitHub](https://github.com/simongomes?tab=re
 
 - **Databases**: `MySql`, `MongoDB`, `PostgreSQL`, `SQLite`, `Redis`, `Cassandra`
 
-- **Technical Practices**: `*Agile*`, `*TDD*`, `*Scrum*`, `*Jira*`
+- **Technical Practices**: *`Agile`*, *`TDD`*, *`Scrum`*, *`Jira`*
 
 
 ### :hugs: Thank You!
