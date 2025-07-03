@@ -32,7 +32,7 @@ Thank you so much for visiting my tiny space on [GitHub](https://github.com/simo
 <a href="https://www.facebook.com/sum.sim" title="Facebook"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> 
 <a href="https://www.linkedin.com/in/simon-gomes" title="LinkedIn"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> 
 <a href="https://stackoverflow.com/users/3518548/simon-gomes" title="StackOverflow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="32px" height="32px"></a> 
-<a href="https://leetcode.com/u/simongomes/" title="Leetcode"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> 
+<a href="https://leetcode.com/u/simongomes/" title="Leetcode"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32px" height="32px"></a> 
 <a href="https://simonthedev.com"><img src="https://avatars.githubusercontent.com/u/1799122" width="32px" height="32px"></a>
 
 
