@@ -9,15 +9,13 @@ I'm a Senior Software Engineer with 8+ years of experience in design and develop
  
 I am **addicted to green dots** on [GitHub](https://github.com/simongomes?tab=repositories).
 
-[![Simon's github stats](https://github-readme-stats.vercel.app/api?username=simongomes&show_icons=true)](https://github.com/simongomes)
-
 ### :gear: My skills include:
 
-- **Languages**: `JavaScript`, `Typescript`, `PHP`, `C++`, `Java`, `OOP`
+- **Languages**: `JavaScript`, `Typescript`, `PHP`, `Python`, `Go`, `Java`, `OOP`
 
 - **Frontend**: `React`, `Next`, `Vue`, `Nuxt`, `HTML5`, `CSS3`,
 
-- **Backend**: `Laravel`, `WordPress`, `Express`, `Node`, `Strapi`, `Ghost`
+- **Backend**: `Express`, `Node`, `Nest`, `Laravel`, `WordPress`, `Strapi`, `Ghost`
 
 - **Databases**: `MySql`, `MongoDB`, `PostgreSQL`, `SQLite`, `Redis`, `Cassandra`
 
